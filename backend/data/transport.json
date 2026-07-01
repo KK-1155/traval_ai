@@ -1,0 +1,21 @@
+{
+  "Yangon-Bagan": {
+    "bus": 35000,
+    "flight": 180000
+  },
+
+  "Yangon-Mandalay": {
+    "bus": 40000,
+    "flight": 150000
+  },
+
+  "Yangon-Ngapali": {
+    "bus": 50000,
+    "flight": 220000
+  },
+
+  "Mandalay-Bagan": {
+    "bus": 15000,
+    "flight": 80000
+  }
+}

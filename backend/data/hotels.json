@@ -1,0 +1,46 @@
+{
+  "Bagan": {
+    "budget": {
+      "name": "Bagan Central Hotel",
+      "price": 25000
+    },
+    "standard": {
+      "name": "Bagan View Hotel",
+      "price": 70000
+    },
+    "luxury": {
+      "name": "Aureum Palace Hotel",
+      "price": 250000
+    }
+  },
+
+  "Ngapali": {
+    "budget": {
+      "name": "Golden Sea Motel",
+      "price": 35000
+    },
+    "standard": {
+      "name": "Ngapali Bay Villas",
+      "price": 120000
+    },
+    "luxury": {
+      "name": "Hilton Ngapali Resort",
+      "price": 350000
+    }
+  },
+
+  "Mandalay": {
+    "budget": {
+      "name": "Mandalay Lodge",
+      "price": 25000
+    },
+    "standard": {
+      "name": "Mandalay City Hotel",
+      "price": 80000
+    },
+    "luxury": {
+      "name": "Mingalar Mandalay Resort",
+      "price": 220000
+    }
+  }
+}

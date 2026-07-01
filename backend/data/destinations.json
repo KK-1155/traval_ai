@@ -1,0 +1,36 @@
+{
+  "Beach": [
+    "Ngapali",
+    "Ngwe Saung",
+    "Chaung Tha",
+    "Myeik"
+  ],
+
+  "Nature": [
+    "Inle Lake",
+    "Kalaw",
+    "Pyin Oo Lwin",
+    "Putao"
+  ],
+
+  "Adventure": [
+    "Hpa-An",
+    "Putao",
+    "Kyaiktiyo",
+    "Mogok"
+  ],
+
+  "Historical": [
+    "Bagan",
+    "Mandalay",
+    "Mrauk-U",
+    "Sagaing"
+  ],
+
+  "Food Tour": [
+    "Yangon",
+    "Mandalay",
+    "Taunggyi",
+    "Mawlamyine"
+  ]
+}
